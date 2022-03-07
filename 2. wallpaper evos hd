@@ -70,70 +70,679 @@
       "name_category": "Evos",
       "wallpaper_name": "Evos 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/616289530267842814/"
+      "wallpaper_url": "https://i.pinimg.com/originals/0b/ec/8f/0bec8f1319e2eba7c0a541fa06aceb0a.jpg"
     },
     {
       "id": 7,
       "name_category": "Evos",
       "wallpaper_name": "Evos 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/432767845452866237/"
+      "wallpaper_url": "https://i.pinimg.com/originals/31/d8/6c/31d86c6cbbdb912bfd595da16eb2838f.jpg"
     },
     {
       "id": 8,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
+      "wallpaper_name": "Evos 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/641974121893318588/"
+      "wallpaper_url": "https://i.pinimg.com/originals/5f/62/67/5f6267b8bc110d549a592b5fcfe70942.jpg"
     },
     {
       "id": 9,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
+      "wallpaper_name": "Evos 9",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/originals/f2/e4/c4/f2e4c4c30b016f1438ec11af6419876a.jpg"
     },
     {
       "id": 10,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
+      "wallpaper_name": "Evos 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/330451691416539472/"
-    },
-    {
-      "id": 10,
-      "name_category": "Evos",
-      "wallpaper_name": "Evos",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/517351075954440504/"
+      "wallpaper_url": "https://i.pinimg.com/originals/ee/e0/72/eee072bd23df22ca421b65a5e1351729.jpg"
     },
     {
       "id": 11,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://id.pinterest.com/pin/611997036863154013/"
+      "wallpaper_name": "Evos 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/24/35/da/2435da576e9ccd3d18c6e68c6e3881b9.jpg"
     },
     {
       "id": 12,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
+      "wallpaper_name": "Evos 12",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://id.pinterest.com/pin/579908889527350604/"
+      "wallpaper_url": "https://i.pinimg.com/originals/a0/c2/2b/a0c22b79e05f0e896407dbbfefa8d264.jpg"
     },
     {
       "id": 13,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/945474515493235575/"
+      "wallpaper_name": "Evos 13",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://i.pinimg.com/originals/91/12/87/911287c5cbffade5837fa8f1702c4af2.jpg"
     },
     {
       "id": 14,
       "name_category": "Evos",
-      "wallpaper_name": "Evos",
+      "wallpaper_name": "Evos 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://id.pinterest.com/pin/1040050107667760701/"
+      "wallpaper_url": "https://i.pinimg.com/originals/fc/e3/35/fce3350a7d9bc7ddba3d644636cab486.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/2e/8c/de2e8c27b0e5b6a18d28b374a309429e.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c9/9c/e5/c99ce5a0fa98d232abf426b26775372f.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b1/28/40/b128404157472f38c851b479bca8dae8.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/06/0f/0e060f242b103a89bc1a5958fd458d34.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a9/b5/17/a9b5179042a57f3ba7e55083942619db.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/00/68/54/00685482b7b99fa00b6a4d97cdda73c6.jpg"
+    },
+    {
+      "id": 21,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/b2/41/0eb2417490447dcc44c3bab4a304d2e9.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/01/24/b8/0124b83328feb44d709e8de49b101331.jpg"
+    },
+    {
+      "id": 23,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c1/ff/3a/c1ff3ac4e9c767a0ae6ebfeec0fbd4fa.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/1c/b0/90/1cb090583524faefad72f0d54caba80c.jpg"
+    },
+    {
+      "id": 25,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ab/fb/e9/abfbe9b13cc52e492a3144a23435cb10.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ca/1f/a0/ca1fa0fe79f2a18f2f4a5bb23bc44da0.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/e0/c6/de/e0c6de18f376ff11089e8d358cf34cc5.jpg"
+    },
+    {
+      "id": 28,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b0/0e/ce/b00eceb3693506c7aad8f2b1fbd63404.jpg"
+    },
+    {
+      "id": 29,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6e/bc/f9/6ebcf998bd7f94280b877b870b6c1a75.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/3d/f3/dd/3df3dd0082e3d1845af98304fb500a52.jpg"
+    },
+    {
+      "id": 31,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/17/c1/56/17c15696fd28bec0890bbc6c10b12327.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/fc/55/8e/fc558e9e42f64fb144ab2e0eda80e72e.jpg"
+    },
+    {
+      "id": 33,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ff/e6/75/ffe675cbbc4a44f48d769f4bd94e604f.jpg"
+    },
+    {
+      "id": 34,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/fe/b4/fb/feb4fb8b36edc133a73dac15df5a0325.jpg"
+    },
+    {
+      "id": 35,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/bf/ea/00/bfea0058ef831d45dc1b4edc58dfe17d.jpg"
+    },
+    {
+      "id": 36,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/d1/21/8d/d1218d517c96a36d5b6187c37c3a429a.jpg"
+    },
+    {
+      "id": 37,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a8/48/ff/a848ff3f6a93c487aad854ece1f9fd6e.jpg"
+    },
+    {
+      "id": 37,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/57/4a/13/574a13105a6a6e615532aed388f4fe42.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/43/88/d5/4388d5ecbf4042fb4e6a5821c5101fab.jpg"
+    },
+    {
+      "id": 39,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/40/33/08/403308a15f5040ede5e2d9415f9268b7.jpg"
+    },
+    {
+      "id": 40,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/36/9e/96/369e96fd19015ac0aefa1eff193756f2.jpg"
+    },
+    {
+      "id": 41,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/23/6f/e9/236fe916cc581bec2ec16abb117fc850.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0f/e8/1b/0fe81ba65d89a2512a6145d990078117.jpg"
+    },
+    {
+      "id": 43,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/22/d0/de22d0d743e9ab2a2ffdf50d51528b66.jpg"
+    },
+    {
+      "id": 44,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b3/e0/15/b3e01550af43f6d4d8f96eb64ad6b176.jpg"
+    },
+    {
+      "id": 45,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/42/c3/6c42c367e15e10a76f7cf9a5a2696952.jpg"
+    },
+    {
+      "id": 46,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/21/23/4c/21234ce0e08ce3be394a1520889b7ba7.jpg"
+    },
+    {
+      "id": 46,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/54/ae/59/54ae594223623e8673ae0f576dc143ad.jpg"
+    },
+    {
+      "id": 47,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0c/0d/e3/0c0de348cca016f862519fd2ee4a5f55.jpg"
+    },
+    {
+      "id": 48,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c1/1b/00/c11b006bb3101b555f1efbc2a877f0f0.jpg"
+    },
+    {
+      "id": 49,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/10/7f/89/107f89ac352ec7013b362ac71e97bcc5.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/cc/d7/8f/ccd78fc455406c7b45b352f3dd85420c.jpg"
+    },
+    {
+      "id": 51,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a9/5f/f9/a95ff99f07fe12e69eda45a059426a51.jpg"
+    },
+    {
+      "id": 52,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7a/2a/09/7a2a09eb4c6c5cede96f164f8d4fee34.jpg"
+    },
+    {
+      "id": 53,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/69/fd/f1/69fdf12a46a8fad16804c725bb65bb27.jpg"
+    },5
+    {
+      "id": 54,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/e6/8b/a2/e68ba2fc89c4867c877c51d2c4334b97.jpg"
+    },
+    {
+      "id": 55,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/14/d5/72/14d5725bec03a4d48d9b644e864a01e2.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/56/21/1a/56211a25a138f9970b6e3c341e6ecafd.jpg"
+    },
+    {
+      "id": 57,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/63/57/6c/63576cba41692924ca85d74a5c962b05.jpg"
+    },
+    {
+      "id": 58,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/af/63/36/af63367ea23f65506b3b342b482e6ac4.jpg"
+    },
+    {
+      "id": 59,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/3d/a8/eb/3da8ebf823341caf7a20d2dd3b185d06.png"
+    },
+    {
+      "id": 60,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/45/ef/f345ef2306dae46c32c26db3edca6d63.jpg"
+    },
+    {
+      "id": 61,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a7/2e/ba/a72ebadfcf14996a7fe16e5802b39760.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f4/bd/e0/f4bde0f5245cdf5324d83bdddc59d855.jpg"
+    },
+    {
+      "id": 63,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/01/47/ab/0147abd56e72d364c5c215ab77819f5d.jpg"
+    },
+    {
+      "id": 64,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/e5/9c/4d/e59c4ded78c7a45d1997c0e14dfbb6c7.jpg"
+    },
+    {
+      "id": 65,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7c/0c/8a/7c0c8ae93dade7727ff8b7e8e08acc03.jpg"
+    },
+    {
+      "id": 66,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/92/36/a29236f5eafba0e82cfa24f1a57c76b2.jpg"
+    },
+    {
+      "id": 67,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b0/41/e8/b041e8ab220e6e9dd8ecbe22962a6e69.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/55/14/de5514fb5aadf5be350daf93b44a3a83.jpg"
+    },
+    {
+      "id": 69,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/4e/33/02/4e330260a74f06927bff81e1a558cd27.jpg"
+    },
+    {
+      "id": 70,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/00/f7/8f/00f78fb9ea03a14969795b4c030a2e4a.jpg"
+    },
+    {
+      "id": 71,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/55/14/de5514fb5aadf5be350daf93b44a3a83.jpg"
+    },
+    {
+      "id": 72,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/72/d5/28/72d528e75ef8d1942805f476ed6a8d35.jpg"
+    },
+    {
+      "id": 73,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/90/2a/2f/902a2f5b520e15f57fbe068bda55c816.jpg"
+    },
+    {
+      "id": 74,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/64/83/83/648383eb5cfafe01e5eaae1f79f48811.jpg"
+    },
+    {
+      "id": 75,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f2/ad/4e/f2ad4eaf5ff6a5113d35ba10c97761c6.jpg"
+    },
+    {
+      "id": 76,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f0/2e/73/f02e73efe2e51fa8826c11926b6033d0.png"
+    },
+    {
+      "id": 77,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b7/c3/26/b7c3268174b2214b38965cb7c9291870.jpg"
+    },
+    {
+      "id": 78,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b7/c3/26/b7c3268174b2214b38965cb7c9291870.jpg"
+    },
+    {
+      "id": 79,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ff/e6/75/ffe675cbbc4a44f48d769f4bd94e604f.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c5/6a/34/c56a34b758b8ca78b11d35aa89c55624.jpg"
+    },
+    {
+      "id": 81,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/17/c1/56/17c15696fd28bec0890bbc6c10b12327.jpg"
+    },
+    {
+      "id": 82,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a0/c2/2b/a0c22b79e05f0e896407dbbfefa8d264.jpg"
+    },
+    {
+      "id": 83,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/12/42/6c1242188f3a893ff849dad33ac6a5fd.jpg"
+    },
+    {
+      "id": 84,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/91/12/87/911287c5cbffade5837fa8f1702c4af2.jpg"
+    },
+    {
+      "id": 85,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a9/b5/17/a9b5179042a57f3ba7e55083942619db.jpg"
+    },
+    {
+      "id": 86,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/5b/f1/da/5bf1dacf95d4042e5a594a9bd68b62f1.jpg"
+    },
+    {
+      "id": 87,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/20/e0/a7/20e0a7be75e50013e865d0ca7c3c2000.jpg"
+    },
+    {
+      "id": 88,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ed/74/57/ed745763bcc4111de60485d0ee57baf8.jpg"
+    },
+    {
+      "id": 89,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/24/94/ad24943d4501a79028a57d19312bd0fd.jpg"
+    },
+    {
+      "id": 90,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ae/f4/c5/aef4c57a69a5e9a6de1e1dc239ffcc42.jpg"
+    },
+    {
+      "id": 91,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/be/19/33/be19337ed33fa60c78db176d528eb55d.jpg"
+    },
+    {
+      "id": 92,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0f/65/2f/0f652f6b1766bad0e1b4969de6516c66.png"
+    },
+    {
+      "id": 93,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/63/d4/f1/63d4f1ee50e04dee76e65207617c40dc.jpg"
+    },
+    {
+      "id": 94,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/75/c6/ac/75c6ac5ad590cd3146d830fad44e01c5.jpg"
+    },
+    {
+      "id": 95,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/60/98/5d/60985dce7abe1b4517ee832417b10538.jpg"
+    },
+    {
+      "id": 96,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/3d/13/8b/3d138bf1be33b77398803c2c57bdbcc5.jpg"
+    },
+    {
+      "id": 97,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/02/67/e7/0267e78ab1576c669fb880a7f24361c7.jpg"
+    },
+    {
+      "id": 98,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/ad/f1/f3adf125ee353ab8346c9a455a16f711.jpg"
+    },
+    {
+      "id": 99,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/ec/6a/deec6a7430e36f5301fde854d36f1c3a.jpg"
+    },
+    {
+      "id": 100,
+      "name_category": "Evos",
+      "wallpaper_name": "Evos 100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/c5/e7/d4/c5e7d4219dee40c5534492d453e08a37.jpg"
     }
   ]
 }
