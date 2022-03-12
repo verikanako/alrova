@@ -22,90 +22,90 @@
   "Categories": [
     {
       "name_category": "jujutsu kaisen",
-      "wallpaper_url": "category/supercar.jpeg"
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/61/f5/2b61f58d92491723ee327d72e4b8fe03.jpg"
     },
     {
       "name_category": "jujutsu kaisen live",
-      "wallpaper_url": "category/beach.jpeg"
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/d1/33/b1d1333a5ea41051734e5892e9ce5599.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "jujutsu kaisen",
+      "name_category": "jujutsu kaisen live",
       "wallpaper_name": "image 1",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/aa/c4/89/aac489b95f158eed34787ef8438767bd.jpg"
+      "wallpaper_type": "m3u8",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/hls/32/94/5e/32945e2105dd9a80c0071f56a81e30d9_720w.m3u8"
     },
     {
       "id": 2,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/43/88/d5/4388d5ecbf4042fb4e6a5821c5101fab.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 3,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/59/8a/1f/598a1fe3ccee88d50c5003bd84360b4f.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 4,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/97/d2/91/97d291b699194fa6b1b9c31962e2f584.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 5,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://wallpapercave.com/wp/wp8773594.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 6,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/0b/ec/8f/0bec8f1319e2eba7c0a541fa06aceb0a.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 7,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/31/d8/6c/31d86c6cbbdb912bfd595da16eb2838f.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 8,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/5f/62/67/5f6267b8bc110d549a592b5fcfe70942.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 9,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/f2/e4/c4/f2e4c4c30b016f1438ec11af6419876a.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 10,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/ee/e0/72/eee072bd23df22ca421b65a5e1351729.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 11,
       "name_category": "jujutsu kaisen",
       "wallpaper_name": "image 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/originals/24/35/da/2435da576e9ccd3d18c6e68c6e3881b9.jpg"
+      "wallpaper_url": ""
     },
     {
       "id": 12,
