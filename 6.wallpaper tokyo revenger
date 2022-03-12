@@ -21,32 +21,32 @@
   ],
   "Categories": [
     {
-      "name_category": "tokyo revenger",
+      "name_category": "tokyo revengers",
       "wallpaper_url": "https://i.pinimg.com/564x/13/c5/14/13c514de03d09d62a0977412b4c695f4.jpg"
     },
     {
-      "name_category": "tokyo revenger live",
+      "name_category": "tokyo revengers live",
       "wallpaper_url": "https://i.pinimg.com/564x/70/31/b2/7031b2dc87a271a149003cb531976bdc.jpg"
     }
   ],
   "Wallpaper": [
    {
       "id": 1,
-      "name_category": "tokyo revenger",
+      "name_category": "tokyo revengers",
       "wallpaper_name": "image 1",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/a8/cc/20/a8cc208db70f4939a9643c7a17459bce.jpg"
     },
     {
       "id": 2,
-      "name_category": "tokyo revenger",
+      "name_category": "tokyo revengers",
       "wallpaper_name": "image 2",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/bc/d3/bd/bcd3bd4ef9e0cb6d3582a11395267930.jpg"
     },
     {
       "id": 3,
-      "name_category": "tokyo revenger",
+      "name_category": "tokyo revengers",
       "wallpaper_name": "image 3",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/db/72/7c/db727c5096da384b30a2bf3c6df945a4.jpg"
